@@ -115,7 +115,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 ## Visitors Count
 
-<img align="left" src = "https://profile-counter.glitch.me/Aryan-Solanki/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/Aryan-Solanki/count.svg" alt ="Loading"></b>
 
 
 Last refresh: <b>Friday, October 9, 01:35 AM IST</b>
