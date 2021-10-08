@@ -106,7 +106,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 ## Activity Graph
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=DavidsDvm&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Aryan-Solanki&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <br>
