@@ -113,9 +113,9 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <!-- last refresh of readme section -->
 
-Last refresh: <b>Friday, October 8, 7:14 AM GMT-5</b>
+Last refresh: <b>Friday, October 9, 01:35 AM IST</b>
 
-<!---
-DavidsDvm/DavidsDvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/Aryan-Solanki/count.svg" alt ="Loading">
