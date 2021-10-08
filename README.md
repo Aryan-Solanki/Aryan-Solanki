@@ -57,7 +57,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>
 <p align="center">
-  <code><a href="https://www.https://flutter.dev/"><img alt="Flutter" title="Flutter" src="./assets/flutter.png" height="42"></a></code>
+  <code><a href="https://flutter.dev/"><img alt="Flutter" title="Flutter" src="./assets/flutter.png" height="42"></a></code>
 <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
   <code><a href="https://www.w3schools.com/CPP/default.asp"><img alt="C++" title="C++" src="./assets/cpp.png" height="42"></a></code>
   <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
