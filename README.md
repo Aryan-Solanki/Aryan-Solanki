@@ -43,10 +43,10 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently studying at **SENA**
+- 🔭 &nbsp; I’m currently studying at **BENNETT UNIVERSITY**
 - 🤝 &nbsp; I’m looking to collaborate on Open Source Proyects
-- 🌱 &nbsp; I’m currently learning Django; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/DavidsDvm?tab=repositories)
+- 🌱 &nbsp; I’m currently learning Flutter; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Aryan-Solanki?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/DavidsDvm/)
 - 🎷 &nbsp; When I am free, I like to play the Sax
