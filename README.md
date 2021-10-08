@@ -71,6 +71,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <h1 align="center"> Languages/Frameworks I'm learning: </h1>
 <p align="center">
    <code><a href="https://www.tensorflow.org/"><img alt="TensorFlow" title="TensorFlow" src="./assets/tensorflow.png" height="42"></a></code>
+  <code><a href="https://pytorch.org/"><img alt="Pytorch" title="Pytorch" src="./assets/pytorch.png" height="42"></a></code>
   
 </p>
 <br>
