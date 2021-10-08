@@ -120,7 +120,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <br>
 
 
-Last refresh: <b>Friday, October 9, 01:35 AM IST</b>
+Last refresh: <b>Friday, October 9, 01:35 AM IST
 
 
 
