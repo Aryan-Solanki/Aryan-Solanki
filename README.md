@@ -39,7 +39,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <br/><br/> 
 
 
-<img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/>
+<img align="right" alt="GIF" src="./assets/dance.gif" width="450vw"/>
 
 ### 🧐 More About Me:
 
