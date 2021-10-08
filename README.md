@@ -79,8 +79,8 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <h1 align="center"> Environments I work with: </h1>
 <p align="center">
-  <code><a href="https://www.jetbrains.com/pycharm/"><img alt="Android Studio" title="Android Studio" src="./assets/android.png" height="42"></a></code>
-  <code><a href="https://developer.android.com/"><img alt="Pycharm" title="Pycharm" src="./assets/pycharm.png" height="42"></a></code>
+  <code><a href="https://developer.android.com/"><img alt="Android Studio" title="Android Studio" src="./assets/android.png" height="42"></a></code>
+  <code><a href="https://www.jetbrains.com/pycharm/"><img alt="Pycharm" title="Pycharm" src="./assets/pycharm.png" height="42"></a></code>
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
   <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
 </p>
