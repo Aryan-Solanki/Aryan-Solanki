@@ -48,9 +48,8 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 - 🌱 &nbsp; I’m currently learning Flutter; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Aryan-Solanki?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
-- 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/DavidsDvm/)
-- 🎷 &nbsp; When I am free, I like to play the Sax
-- 📝 &nbsp; Checkout my [Page](https://www.davidsdvm.com/) 
+- 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/aryan-solanki-3b13191b5/)
+- 🎷 &nbsp; When I am free, I like to watch web series
 
 <br><br><br>
 
