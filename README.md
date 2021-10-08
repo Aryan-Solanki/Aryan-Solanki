@@ -59,10 +59,12 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <p align="center">
   <code><a href="https://www.https://flutter.dev/"><img alt="Flutter" title="Flutter" src="./assets/flutter.png" height="42"></a></code>
 <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
+  <code><a href="https://www.w3schools.com/CPP/default.asp"><img alt="C++" title="C++" src="./assets/cpp.png" height="42"></a></code>
+  <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
   <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="F;asl" title="Flask" src="./assets/flask.png" height="42"></a></code>
   <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
   <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./assets/markdown.png" height="42"></a></code>
-  <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
+  
 </p>
 <br>
 
